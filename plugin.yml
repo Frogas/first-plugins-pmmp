@@ -1,0 +1,12 @@
+name: FirstPlugins
+main: shikukiza\Main
+api:
+- 3.0.0
+- 4.0.0
+- 5.0.0
+version: 1.0
+author: Shikukiza
+
+commands:
+  test:
+    description: 'Test Commands'
