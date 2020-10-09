@@ -7,6 +7,6 @@
 
 <b>use pocketmine\class;</b>
 <br/>
-<b>class Main extends class implements class {}</b>
+<b>class Main extends more+</b>
 
 ![screenshot](class.jpg)
