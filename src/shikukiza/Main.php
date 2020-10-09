@@ -17,7 +17,7 @@ class Main extends PluginBase implements Listener{
 
     public function onCommand(CommandSender $sender, Command $cmd, string $label, array $args) : bool {
        switch($cmd->getName()){
-           case "test":
+           case 'test':
                if($sender instanceof Player){
                   $sender->sendMessage('Working Command!');
                }
