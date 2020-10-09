@@ -1,5 +1,11 @@
 # MY FIRST PLUGINS
 
-<b> Format .php, Main.php <?php namespace</b>
+<b><?php</b>
+<b>namespace shikukiza;</b>
 
-![screenshot](Screenshot_20201010-003039_Samsung Internet.jpg)
+![screenshot](namespace.jpg)
+
+<b>use pocketmine\class;</b>
+<b>class Main extends class implements class {}</b>
+
+![screenshot](class.jpg)
